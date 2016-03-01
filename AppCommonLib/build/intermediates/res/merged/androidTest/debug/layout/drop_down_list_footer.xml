@@ -24,4 +24,4 @@
         android:gravity="center"
         android:text="@string/drop_down_list_footer_default_text" />
 
-</RelativeLayout><!-- From: file:/D:/demos/android-common/AppCommonLib/src/main/res/layout/drop_down_list_footer.xml --><!-- From: file:/D:/demos/android-common/AppCommonLib/build/intermediates/bundles/debug/res/layout/drop_down_list_footer.xml -->
+</RelativeLayout><!-- From: file:/D:/demos/MyCommon/AppCommonLib/src/main/res/layout/drop_down_list_footer.xml --><!-- From: file:/D:/demos/MyCommon/AppCommonLib/build/intermediates/bundles/debug/res/layout/drop_down_list_footer.xml -->

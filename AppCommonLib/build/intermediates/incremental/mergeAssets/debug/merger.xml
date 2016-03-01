@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\demos\android-common\AppCommonLib\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\demos\android-common\AppCommonLib\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\demos\MyCommon\AppCommonLib\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\demos\MyCommon\AppCommonLib\src\debug\assets"/></dataSet></merger>
