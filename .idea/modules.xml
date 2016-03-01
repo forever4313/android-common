@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppCommonLib/AppCommonLib.iml" filepath="$PROJECT_DIR$/AppCommonLib/AppCommonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvpCommonLib/MvpCommonLib.iml" filepath="$PROJECT_DIR$/MvpCommonLib/MvpCommonLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MvpFrameworkLib/MvpFrameworkLib.iml" filepath="$PROJECT_DIR$/MvpFrameworkLib/MvpFrameworkLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-common.iml" filepath="$PROJECT_DIR$/android-common.iml" />
+    </modules>
+  </component>
+</project>
